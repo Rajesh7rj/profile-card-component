@@ -15,20 +15,20 @@ h1{
   font-size: 1.3rem;
 }
 
+h2{
+  
+  display: grid;
+  justify-content: center;
+  color: hsl(227, 10%, 46%);
+  font-size: medium;
+}
+
 h3{
   display: grid;
   justify-content: center;
   font-size: large;
   color: hsl(229, 23%, 23%);
   font-weight: 700;
-}
-
-h4{
-  
-  display: grid;
-  justify-content: center;
-  color: hsl(227, 10%, 46%);
-  font-size: medium;
 }
 
 hr{
